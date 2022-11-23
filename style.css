@@ -4,7 +4,7 @@ html {
 
 body {
   height: 500vh;
-  background: #000;
+/*  background: #000;*/
 }
 
 canvas {
@@ -12,6 +12,8 @@ canvas {
   left: 50%;
   top: 50%;
   transform: translate(-50%, -50%);
+  /*width: 100%;
+  height: auto;*/
   max-width: 100vw;
   max-height: 100vh;
 }
